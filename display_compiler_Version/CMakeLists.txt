@@ -1,0 +1,1 @@
+add_executable(development_for_cpp main.cpp)
