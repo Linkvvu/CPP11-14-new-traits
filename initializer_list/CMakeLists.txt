@@ -1,0 +1,1 @@
+add_executable(Initializer_list initializer_list.cpp)
